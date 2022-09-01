@@ -2,7 +2,7 @@
 
 With innovative approaches and advanced methodologies, Vecta Corporation provides _scalable business solutions_ to help companies achieve success through **revenue increase, cost management, and user satisfaction**. 
 
-#####Our approach stems from the three most important business growth aspects:  
+##### Our approach stems from the three most important business growth aspects:  
 1. helping companies reach prospects  
 2. assist in converting prospects to customers  
 3. assist in retaining those customers  
